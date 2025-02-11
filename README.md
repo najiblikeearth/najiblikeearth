@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Najib</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=157347&center=true&vCenter=true&width=435&lines=Web+Developer;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2BAE66&center=true&vCenter=true&width=435&lines=Web+Developer;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
+
 
 
 
