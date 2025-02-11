@@ -34,13 +34,17 @@
 
 ---
 
+### **🔥 Streak Stats**
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+---
+
 ### 📊 **GitHub Stats:**
 
 ![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=najiblikeearth&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najiblikeearth&layout=compact&theme=tokyonight)
 
----
 
-### **🔥 Streak Stats**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
