@@ -39,8 +39,8 @@
 
 ### 📊 **GitHub Stats:**
 
-![Najib's GitHub Stats](https://github-stats-extended.vercel.app/api?username=najiblikeearth&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=najiblikeearth&layout=compact&theme=tokyonight)
+[![Najib's GitHub Stats](https://github-stats-extended.vercel.app/api?username=najiblikeearth&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=najiblikeearth&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
