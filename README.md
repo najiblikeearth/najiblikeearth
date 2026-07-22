@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=48&duration=1200&pause=2000&color=00FF66&vCenter=true&random=false&width=920&height=75&lines=Hi+There!%F0%9F%91%8B;I'm+Najib;Web+Developer;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=48&duration=1200&pause=2000&color=41B883&vCenter=true&random=false&width=920&height=75&lines=Hi+There!%F0%9F%91%8B;I'm+Najib;Web+Developer;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
@@ -29,10 +29,10 @@
 # 📊 GitHub Stats:
 
 <!--
-![](https://github-readme-stats.shion.dev/api?username=najiblikeearth&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=C9D1D9&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=najiblikeearth&bg_color=0D1117&title_color=41B883&icon_color=41B883&text_color=C9D1D9&hide_border=true&include_all_commits=false&count_private=false)<br/>
 -->
-![](https://streak-stats.demolab.com/?user=najiblikeearth&background=0D1117&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&currStreakLabel=C9D1D9&dates=8B949E&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=najiblikeearth&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=C9D1D9&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=najiblikeearth&background=0D1117&ring=41B883&fire=41B883&currStreakNum=41B883&sideNums=41B883&currStreakLabel=C9D1D9&dates=8B949E&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=najiblikeearth&bg_color=0D1117&title_color=41B883&icon_color=41B883&text_color=C9D1D9&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=0D1117&quoteColor=C9D1D9&authorColor=00FF66&symbolColor=00FF66)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=0D1117&quoteColor=C9D1D9&authorColor=41B883&symbolColor=41B883)
